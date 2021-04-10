@@ -27,7 +27,12 @@ body {
   height: 100vh;
 }
 
-/* 1st row*/
+/* 
+==========
+1st Row 
+==========
+*/
+
 .cell-1 {
   background: var(--clr-white);
   grid-area: a;
@@ -41,7 +46,12 @@ body {
   grid-area: c;
 }
 
-/* 2nd row */
+/* 
+==========
+2nd Row 
+==========
+*/
+
 .cell-4 {
   background: var(--clr-white);
   grid-area: a1;
@@ -71,7 +81,11 @@ body {
   grid-area: a1-2;
 }
 
-/* 3rd row */
+/* 
+==========
+3rd Row 
+==========
+*/
 
 .cell-11 {
   background: var(--clr-white);
@@ -102,7 +116,12 @@ body {
   grid-area: a2-1;
 }
 
-/* 4th row */
+/* 
+==========
+4th Row 
+==========
+*/
+
 .cell-18 {
   background: var(--clr-white);
   grid-area: a3;
@@ -140,7 +159,11 @@ body {
   grid-area: a3-1;
 }
 
-/* 5th row */
+/* 
+==========
+5th Row 
+==========
+*/
 
 .cell-27 {
   background: var(--clr-white);
@@ -185,4 +208,114 @@ body {
 .cell-37 {
   background: var(--clr-white);
   grid-area: a4-1;
+}
+
+/* 
+==========
+6th Row 
+==========
+*/
+.cell-38 {
+  background: var(--clr-white);
+  grid-area: a5;
+}
+
+.cell-39 {
+  background: var(--clr-black);
+  grid-area: b5;
+}
+
+.cell-40 {
+  background: var(--clr-red);
+  grid-area: c5;
+}
+.cell-41 {
+  background: var(--clr-black);
+  grid-area: b5-1;
+}
+.cell-42 {
+  background: var(--clr-red);
+  grid-area: c5-1;
+}
+.cell-43 {
+  background: var(--clr-black);
+  grid-area: b5-2;
+}
+.cell-44 {
+  background: var(--clr-red);
+  grid-area: c5-2;
+}
+.cell-45 {
+  background: var(--clr-black);
+  grid-area: b5-3;
+}
+.cell-46 {
+  background: var(--clr-red);
+  grid-area: c5-3;
+}
+.cell-47 {
+  background: var(--clr-black);
+  grid-area: b5-4;
+}
+.cell-48 {
+  background: var(--clr-white);
+  grid-area: a5-1;
+}
+
+/* 
+==========
+7th Row 
+==========
+*/
+.cell-49 {
+  background: var(--clr-white);
+  grid-area: a6;
+}
+.cell-50 {
+  background: var(--clr-black);
+  grid-area: b6;
+}
+.cell-51 {
+  background: var(--clr-red);
+  grid-area: c6;
+}
+.cell-52 {
+  background: var(--clr-black);
+  grid-area: b6-1;
+}
+.cell-53 {
+  background: var(--clr-red);
+  grid-area: c6-1;
+}
+.cell-54 {
+  background: var(--clr-black);
+  grid-area: b6-2;
+}
+.cell-55 {
+  background: var(--clr-red);
+  grid-area: c6-2;
+}
+.cell-56 {
+  background: var(--clr-black);
+  grid-area: b6-3;
+}
+.cell-57 {
+  background: var(--clr-red);
+  grid-area: c6-3;
+}
+.cell-58 {
+  background: var(--clr-black);
+  grid-area: b6-4;
+}
+.cell-59 {
+  background: var(--clr-red);
+  grid-area: c6-4;
+}
+.cell-60 {
+  background: var(--clr-black);
+  grid-area: b6-5;
+}
+.cell-61 {
+  background: var(--clr-white);
+  grid-area: a6-1;
 }
