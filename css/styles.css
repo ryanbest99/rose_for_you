@@ -439,3 +439,65 @@ body {
 10th Row 
 ==========
 */
+.cell-87 {
+  background: var(--clr-black);
+  grid-area: b9;
+}
+.cell-88 {
+  background: var(--clr-red);
+  grid-area: c9;
+}
+.cell-89 {
+  background: var(--clr-black);
+  grid-area: b9-1;
+}
+.cell-90 {
+  background: var(--clr-red);
+  grid-area: c9-1;
+}
+.cell-91 {
+  background: var(--clr-black);
+  grid-area: b9-2;
+}
+.cell-92 {
+  background: var(--clr-red);
+  grid-area: c9-2;
+}
+.cell-93 {
+  background: var(--clr-black);
+  grid-area: b9-3;
+}
+.cell-94 {
+  background: var(--clr-red);
+  grid-area: c9-3;
+}
+.cell-95 {
+  background: var(--clr-black);
+  grid-area: b9-4;
+}
+.cell-96 {
+  background: var(--clr-red);
+  grid-area: c9-4;
+}
+.cell-97 {
+  background: var(--clr-black);
+  grid-area: b9-5;
+}
+.cell-98 {
+  background: var(--clr-red);
+  grid-area: c9-5;
+}
+.cell-99 {
+  background: var(--clr-black);
+  grid-area: b9-6;
+}
+.cell-100 {
+  background: var(--clr-white);
+  grid-area: a9;
+}
+
+/* 
+==========
+11th Row 
+==========
+*/
