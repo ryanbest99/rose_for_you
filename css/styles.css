@@ -319,3 +319,68 @@ body {
   background: var(--clr-white);
   grid-area: a6-1;
 }
+
+/* 
+==========
+8th Row 
+==========
+*/
+
+.cell-62 {
+  background: var(--clr-white);
+  grid-area: a7;
+}
+.cell-63 {
+  background: var(--clr-black);
+  grid-area: b7;
+}
+.cell-64 {
+  background: var(--clr-red);
+  grid-area: c7;
+}
+.cell-65 {
+  background: var(--clr-black);
+  grid-area: b7-1;
+}
+.cell-66 {
+  background: var(--clr-red);
+  grid-area: c7-1;
+}
+.cell-67 {
+  background: var(--clr-black);
+  grid-area: b7-2;
+}
+.cell-68 {
+  background: var(--clr-red);
+  grid-area: c7-2;
+}
+.cell-69 {
+  background: var(--clr-black);
+  grid-area: b7-3;
+}
+.cell-70 {
+  background: var(--clr-red);
+  grid-area: c7-3;
+}
+.cell-71 {
+  background: var(--clr-black);
+  grid-area: b7-4;
+}
+.cell-72 {
+  background: var(--clr-red);
+  grid-area: c7-4;
+}
+.cell-73 {
+  background: var(--clr-black);
+  grid-area: b7-5;
+}
+.cell-74 {
+  background: var(--clr-white);
+  grid-area: a7-1;
+}
+
+/* 
+==========
+9th Row 
+==========
+*/
