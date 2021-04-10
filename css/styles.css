@@ -384,3 +384,58 @@ body {
 9th Row 
 ==========
 */
+
+.cell-75 {
+  background: var(--clr-black);
+  grid-area: b8;
+}
+.cell-76 {
+  background: var(--clr-red);
+  grid-area: c8;
+}
+.cell-77 {
+  background: var(--clr-black);
+  grid-area: b8-1;
+}
+.cell-78 {
+  background: var(--clr-red);
+  grid-area: c8-1;
+}
+.cell-79 {
+  background: var(--clr-black);
+  grid-area: b8-2;
+}
+.cell-80 {
+  background: var(--clr-red);
+  grid-area: c8-2;
+}
+.cell-81 {
+  background: var(--clr-black);
+  grid-area: b8-3;
+}
+.cell-82 {
+  background: var(--clr-red);
+  grid-area: c8-3;
+}
+.cell-83 {
+  background: var(--clr-black);
+  grid-area: b8-4;
+}
+.cell-84 {
+  background: var(--clr-red);
+  grid-area: c8-4;
+}
+.cell-85 {
+  background: var(--clr-black);
+  grid-area: b8-5;
+}
+.cell-86 {
+  background: var(--clr-white);
+  grid-area: a8;
+}
+
+/* 
+==========
+10th Row 
+==========
+*/
