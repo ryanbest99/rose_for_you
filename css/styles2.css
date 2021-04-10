@@ -1,0 +1,28 @@
+/* 
+===========
+variables 
+===========
+*/
+
+:root {
+  --clr-white: #fff;
+  --clr-red: red;
+  --clr-black: black;
+}
+
+/*
+===========
+Global Settings 
+===========
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: cornsilk;
+  height: 100vh;
+}
