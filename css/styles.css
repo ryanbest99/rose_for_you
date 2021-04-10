@@ -141,3 +141,48 @@ body {
 }
 
 /* 5th row */
+
+.cell-27 {
+  background: var(--clr-white);
+  grid-area: a4;
+}
+.cell-28 {
+  background: var(--clr-black);
+  grid-area: b4;
+}
+.cell-29 {
+  background: var(--clr-red);
+  grid-area: c4;
+}
+.cell-30 {
+  background: var(--clr-black);
+  grid-area: b4-1;
+}
+.cell-31 {
+  background: var(--clr-red);
+  grid-area: c4-1;
+}
+.cell-32 {
+  background: var(--clr-black);
+  grid-area: b4-2;
+}
+.cell-33 {
+  background: var(--clr-red);
+  grid-area: c4-2;
+}
+.cell-34 {
+  background: var(--clr-black);
+  grid-area: b4-3;
+}
+.cell-35 {
+  background: var(--clr-red);
+  grid-area: c4-3;
+}
+.cell-36 {
+  background: var(--clr-black);
+  grid-area: b4-4;
+}
+.cell-37 {
+  background: var(--clr-white);
+  grid-area: a4-1;
+}
